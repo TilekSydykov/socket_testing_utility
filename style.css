@@ -1,0 +1,33 @@
+.d-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.justify_s_b{
+    justify-content: space-between;
+}
+
+.component {
+    width: 80px;
+    border: 1px solid #919191;
+    margin: 2px;
+    font-size: 13px;
+    padding: 3px;
+}
+
+.messages {
+    text-align: center;
+}
+
+.indicator {
+    border-radius: 50%;
+    height: 10px;
+    width: 10px;
+}
+
+.red {
+    background-color: red;
+}
+.green {
+    background-color: #00ff00;
+}
